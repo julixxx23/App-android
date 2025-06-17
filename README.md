@@ -1,16 +1,46 @@
-# todo_app
+## App-Android
+Este es un proyecto de una aplicación móvil para Android desarrollada con Flutter.
 
-A new Flutter project.
+## 🚀 Características
+- Gestión de tareas
+- Notificaciones en Firebase
+- 
+## 🛠️ Instalación
+Clona este repositorio:
+git clone https://github.com/julixxx23/App-Android.git
 
-## Getting Started
+## Accede a la carpeta del proyecto:
+cd App-Android
 
-This project is a starting point for a Flutter application.
+## Instala las dependencias:
+flutter pub get
 
-A few resources to get you started if this is your first Flutter project:
+## Ejecuta la aplicación:
+flutter run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Uso
+- Gestión de tareas: Agrega, edita y elimina tareas.
+- Notificaciones: Recibe alertas en tiempo real.
+📂 Estructura del proyecto
+App-Android/
+│── lib/               # Código fuente principal
+│── assets/            # Recursos como imágenes y fuentes
+│── pubspec.yaml       # Configuración de dependencias
+│── README.md          # Documentación del proyecto
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 📝 Licencia de Julian
+Este software, **App-Android**, es desarrollado por Julian. El código fuente y los recursos dentro de este repositorio pueden ser utilizados, modificados y distribuidos **libremente**, siempre y cuando se reconozca la autoría original.
+
+## 📌 Condiciones:
+- Puedes usar este proyecto para **cualquier propósito**.
+- Puedes modificar y distribuir el código **sin restricciones**.
+- No se permite **revender** el código sin cambios significativos.
+- El autor **no se responsabiliza** por daños derivados del uso del software.
+
+## 📌 Derechos:
+- El creador del proyecto, **Julian**, mantiene los derechos sobre este software.
+- Los colaboradores pueden contribuir con mejoras siguiendo las reglas de código abierto.
+
+
+
+
