@@ -1,0 +1,30 @@
+name: todo_app
+description: A new Flutter project.
+
+environment:
+  sdk: '>=3.8.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+  # 🔥 Firebase core (núcleo)
+  firebase_core: ^2.30.0
+
+  # ✉️ Firebase messaging (notificaciones push)
+  firebase_messaging: ^14.7.10
+
+  # 🔔 Notificaciones locales
+  flutter_local_notifications: ^17.2.4
+
+  # 📦 Manejo de estado con Provider
+  provider: ^6.0.5  # ¡Agregado!
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

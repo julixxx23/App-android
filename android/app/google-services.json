@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "263603127920",
+    "project_id": "tareas-d333e",
+    "storage_bucket": "tareas-d333e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263603127920:android:113ddd30379af3384c96b5",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzFUv-nFmTQ1y5rjN_ct7X5USJghU9QA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
